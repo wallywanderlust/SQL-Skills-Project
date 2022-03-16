@@ -11,9 +11,9 @@ beverages, condiments, confections, dairy products, etc. Northwind Trades has a 
 
 In addition to insights about the data, this project uses the following functions and expressions:
 
--CTEs
--Windows using rank function and partition by clause
--Distinct, Min, Max, JulianDay functions
--Inner and Left Joins, Group By and Having statements
+- CTEs
+- Windows using rank function and partition by clause
+- Distinct, Min, Max, JulianDay functions
+- Inner and Left Joins, Group By and Having statements
 
 Hopefully you enjoy reading this project as much as I enjoyed doing it. Although, I doubt it! 
