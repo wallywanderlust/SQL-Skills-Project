@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/wallywanderlust/SQL-NORTHWIND-TRADES/blob/main/SQL%20Northwind%20Project.ipynb/HEAD
+
 
 # SQL-NORTHWIND-TRADES
 
