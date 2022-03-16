@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/wallywanderlust/SQL-NORTHWIND-TRADES/blob/main/SQL%20Northwind%20Project.ipynb/HEAD
+
 # SQL-NORTHWIND-TRADES
 
 This project is based on the Northwind Trades Database. Northwind Trades is a fictional company that imports and exports a variety of goods including but not excluded to: 
