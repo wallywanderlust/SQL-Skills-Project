@@ -1,6 +1,4 @@
-
-
-# SQL-NORTHWIND-TRADES
+# SQL Skills Project
 
 This project is based on the Northwind Trades Database. Northwind Trades is a fictional company that imports and exports a variety of goods including but not excluded to: 
 beverages, condiments, confections, dairy products, etc. Northwind Trades has a database made up of 13 tables including supplier, product, customer and employee information. This project excavates the database and provides interesting insights about:
